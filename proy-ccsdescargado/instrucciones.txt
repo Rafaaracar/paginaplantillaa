@@ -1,0 +1,5 @@
+para quitar las fotos y demas tienes que ir a donde ponga post y borrar lo que este despues del espacio
+
+tienes que decidir la pagina que vayas a utilizar para todas (element / generic / index) y luego cambiar como dice arriba
+
+cada vez que insertes una pagina nueva tienes que modificar todas las referencias de esa pagina nueva para las anteriores (barra del nav y demas)
